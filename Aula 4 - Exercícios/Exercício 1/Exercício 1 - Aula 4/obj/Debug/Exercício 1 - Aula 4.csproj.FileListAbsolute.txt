@@ -1,0 +1,24 @@
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Exercício 1 - Aula 4\Exercício 1 - Aula 4\bin\Debug\Exercício 1 - Aula 4.exe.config
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Exercício 1 - Aula 4\Exercício 1 - Aula 4\bin\Debug\Exercício 1 - Aula 4.exe
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Exercício 1 - Aula 4\Exercício 1 - Aula 4\bin\Debug\Exercício 1 - Aula 4.pdb
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Exercício 1 - Aula 4\Exercício 1 - Aula 4\obj\Debug\Exercício 1 - Aula 4.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Exercício 1 - Aula 4\Exercício 1 - Aula 4\obj\Debug\Exercício 1 - Aula 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Exercício 1 - Aula 4\Exercício 1 - Aula 4\obj\Debug\Exercício 1 - Aula 4.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Exercício 1 - Aula 4\Exercício 1 - Aula 4\obj\Debug\Exercício 1 - Aula 4.exe
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Exercício 1 - Aula 4\Exercício 1 - Aula 4\obj\Debug\Exercício 1 - Aula 4.pdb
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 4 - Exercícios\Exercício 1 - Aula 4\Exercício 1 - Aula 4\bin\Debug\Exercício 1 - Aula 4.exe.config
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 4 - Exercícios\Exercício 1 - Aula 4\Exercício 1 - Aula 4\bin\Debug\Exercício 1 - Aula 4.exe
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 4 - Exercícios\Exercício 1 - Aula 4\Exercício 1 - Aula 4\bin\Debug\Exercício 1 - Aula 4.pdb
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 4 - Exercícios\Exercício 1 - Aula 4\Exercício 1 - Aula 4\obj\Debug\Exercício 1 - Aula 4.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 4 - Exercícios\Exercício 1 - Aula 4\Exercício 1 - Aula 4\obj\Debug\Exercício 1 - Aula 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 4 - Exercícios\Exercício 1 - Aula 4\Exercício 1 - Aula 4\obj\Debug\Exercício 1 - Aula 4.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 4 - Exercícios\Exercício 1 - Aula 4\Exercício 1 - Aula 4\obj\Debug\Exercício 1 - Aula 4.exe
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 4 - Exercícios\Exercício 1 - Aula 4\Exercício 1 - Aula 4\obj\Debug\Exercício 1 - Aula 4.pdb
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 1\Exercício 1 - Aula 4\bin\Debug\Exercício 1 - Aula 4.exe.config
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 1\Exercício 1 - Aula 4\bin\Debug\Exercício 1 - Aula 4.exe
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 1\Exercício 1 - Aula 4\bin\Debug\Exercício 1 - Aula 4.pdb
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 1\Exercício 1 - Aula 4\obj\Debug\Exercício 1 - Aula 4.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 1\Exercício 1 - Aula 4\obj\Debug\Exercício 1 - Aula 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 1\Exercício 1 - Aula 4\obj\Debug\Exercício 1 - Aula 4.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 1\Exercício 1 - Aula 4\obj\Debug\Exercício 1 - Aula 4.exe
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 1\Exercício 1 - Aula 4\obj\Debug\Exercício 1 - Aula 4.pdb

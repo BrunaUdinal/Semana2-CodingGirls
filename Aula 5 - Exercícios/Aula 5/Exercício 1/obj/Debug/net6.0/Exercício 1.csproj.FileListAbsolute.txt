@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 5 - Exercícios\Aula 5\Exercício 1\bin\Debug\net6.0\Exercício 1.exe
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 5 - Exercícios\Aula 5\Exercício 1\bin\Debug\net6.0\Exercício 1.deps.json
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 5 - Exercícios\Aula 5\Exercício 1\bin\Debug\net6.0\Exercício 1.runtimeconfig.json
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 5 - Exercícios\Aula 5\Exercício 1\bin\Debug\net6.0\Exercício 1.dll
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 5 - Exercícios\Aula 5\Exercício 1\bin\Debug\net6.0\Exercício 1.pdb
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 5 - Exercícios\Aula 5\Exercício 1\obj\Debug\net6.0\Exercício 1.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 5 - Exercícios\Aula 5\Exercício 1\obj\Debug\net6.0\Exercício 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 5 - Exercícios\Aula 5\Exercício 1\obj\Debug\net6.0\Exercício 1.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 5 - Exercícios\Aula 5\Exercício 1\obj\Debug\net6.0\Exercício 1.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 5 - Exercícios\Aula 5\Exercício 1\obj\Debug\net6.0\Exercício 1.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 5 - Exercícios\Aula 5\Exercício 1\obj\Debug\net6.0\Exercício 1.dll
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 5 - Exercícios\Aula 5\Exercício 1\obj\Debug\net6.0\refint\Exercício 1.dll
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 5 - Exercícios\Aula 5\Exercício 1\obj\Debug\net6.0\Exercício 1.pdb
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 5 - Exercícios\Aula 5\Exercício 1\obj\Debug\net6.0\Exercício 1.genruntimeconfig.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 5 - Exercícios\Aula 5\Exercício 1\obj\Debug\net6.0\ref\Exercício 1.dll

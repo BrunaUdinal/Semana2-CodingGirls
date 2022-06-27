@@ -1,0 +1,8 @@
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 4 - Exercícios\Exercício 2\Exercício 2\bin\Debug\Exercício 2.exe.config
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 4 - Exercícios\Exercício 2\Exercício 2\bin\Debug\Exercício 2.exe
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 4 - Exercícios\Exercício 2\Exercício 2\bin\Debug\Exercício 2.pdb
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 4 - Exercícios\Exercício 2\Exercício 2\obj\Debug\Exercício 2.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 4 - Exercícios\Exercício 2\Exercício 2\obj\Debug\Exercício 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 4 - Exercícios\Exercício 2\Exercício 2\obj\Debug\Exercício 2.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 4 - Exercícios\Exercício 2\Exercício 2\obj\Debug\Exercício 2.exe
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 4 - Exercícios\Exercício 2\Exercício 2\obj\Debug\Exercício 2.pdb

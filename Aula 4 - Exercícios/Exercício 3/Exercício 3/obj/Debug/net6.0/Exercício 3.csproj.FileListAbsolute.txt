@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 3\Exercício 3\bin\Debug\net6.0\Exercício 3.exe
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 3\Exercício 3\bin\Debug\net6.0\Exercício 3.deps.json
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 3\Exercício 3\bin\Debug\net6.0\Exercício 3.runtimeconfig.json
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 3\Exercício 3\bin\Debug\net6.0\Exercício 3.dll
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 3\Exercício 3\bin\Debug\net6.0\Exercício 3.pdb
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.dll
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 3\Exercício 3\obj\Debug\net6.0\refint\Exercício 3.dll
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.pdb
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.genruntimeconfig.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Semana 2 - Coding Girls\Aula 4 - Exercícios\Exercício 3\Exercício 3\obj\Debug\net6.0\ref\Exercício 3.dll
